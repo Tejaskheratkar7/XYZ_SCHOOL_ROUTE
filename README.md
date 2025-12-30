@@ -53,7 +53,7 @@ The project uses **graph data structures** and **Dijkstra’s Algorithm** to cal
 
 ## 👨‍🎓 Developed By
 Anurag Nikumbh :https://github.com/AnuragNikumbh13
-Abhishek kahar :https://github.com/abhishek19kahar
+Abhishek Kahar :https://github.com/abhishek19kahar
 Aaditya Pal :
 Shashwat Pandey :https://github.com/shashwat45
 Tejas Kheratkar:https://github.com/Tejaskheratkar7
